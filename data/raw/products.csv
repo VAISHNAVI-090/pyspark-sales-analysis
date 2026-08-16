@@ -1,0 +1,11 @@
+product_id,product_name,category,unit_price
+P001,Wireless Mouse,Electronics,799.0
+P002,Mechanical Keyboard,Electronics,2499.0
+P003,USB-C Hub,Accessories,1299.0
+P004,Laptop Stand,Furniture,1599.0
+P005,Webcam 1080p,Electronics,1899.0
+P006,Bluetooth Speaker,Electronics,2299.0
+P007,Desk Lamp,Office,999.0
+P008,Noise Cancelling Headset,Electronics,4999.0
+P009,Office Chair,Furniture,6999.0
+P010,Notebook Set,Office,249.0
